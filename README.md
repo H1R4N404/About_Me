@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me hiranabhisheka44@gmail.com
-- 😄 Pronouns: AbHi
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Hello, world!
 
 <!---
