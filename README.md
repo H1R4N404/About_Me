@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @H1R4N404<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Python, Dart, Flutter<br>💞️ I’m looking to collaborate on<br>📫 How to reach me hiranabhisheka44@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Hello, world!<br>
 <br>
-I'm currently an undergraduate at the NSBM green university, where I am pursuing my studies with a focus on software engineering. Over the past year, I have gained valuable experience in front-end-development, honing my skills in creating dynamic, user-friendly web interfaces. My goal is to contribute to innovative projects that make a positive impact and to continually grow as a developer.
+I'm currently an undergraduate at the NSBM Green University, where I am pursuing my studies with a focus on software engineering. Over the past year, I have gained valuable experience in front-end-development, honing my skills in creating dynamic, user-friendly web interfaces. My goal is to contribute to innovative projects that make a positive impact and to continually grow as a developer.
 
 
 ## 🌐 Socials:
